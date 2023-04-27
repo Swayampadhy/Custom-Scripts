@@ -1,2 +1,2 @@
 # My-Scripts
-This is Where I store my created Python scripts.
+<h2>This repo contains some python and Go scripts that I created.</h2>
